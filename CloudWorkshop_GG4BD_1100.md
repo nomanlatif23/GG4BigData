@@ -19,7 +19,7 @@ Your will need:
 
 ### STEP 1: Setting up the Environment For Connection to OCI Cloud.
 
-1. We already have a trail file created in the GGBD home. We will be using the same trail file to replicate to OCI Object Storage.
+1. We already have a trail file created in the GGBD home. We will be using the same trail file to replicate to Oracle Pluggable database.
 
 ![](images/1100/image100_1.png)
 
